@@ -35,6 +35,11 @@
   ```shell
   REACT_APP_BASE_URL=http://localhost:8080      (server URL)
   ```
+  
+- Install dependencies:
+  ```shell
+  $ yarn
+  ```
 
 - Run the web client:
   ```shell
