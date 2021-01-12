@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-> The simple social network web application project which using Golang, React and GraphQL
+> The simple social network web application project using Golang, React and GraphQL
 
 ## How it works?
 
